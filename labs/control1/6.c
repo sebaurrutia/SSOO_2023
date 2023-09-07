@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main(){
-    float num1,num2,num3,num4;
+    float num1,num2,num3;
     printf("ingrese 3 notas para calcular el promedio ponderado");
     scanf("%f", & num1);
     scanf("%f", & num2);
