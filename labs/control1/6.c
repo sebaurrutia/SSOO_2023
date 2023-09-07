@@ -3,7 +3,7 @@
 
 int main(){
     float num1,num2,num3;
-    printf("ingrese 3 notas para calcular el promedio ponderado");
+    printf("ingrese 3 notas para calcular el promedio ponderado:\n");
     scanf("%f", & num1);
     scanf("%f", & num2);
     scanf("%f", & num3);
